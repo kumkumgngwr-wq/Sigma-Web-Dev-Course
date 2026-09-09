@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [KUMKUM] 👋</h1>
 
 <p align="center">
   <em>Web Developer in the making 🚀 | Currently learning HTML, CSS & JavaScript</em>
