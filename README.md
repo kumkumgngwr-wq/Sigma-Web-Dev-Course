@@ -29,8 +29,7 @@
 
 ### 📌 Featured Projects
 
-- **[Project Name](repo-link)** — One-line description of what it does and what you learned building it.
-- **[Project Name](repo-link)** — One-line description of what it does and what you learned building it.
+- **[Project Name](repo-link)** — Source code of a SIGMA WEB DEVELOPMENT COURSE
 
 *(More projects coming soon as I keep learning!)*
 
