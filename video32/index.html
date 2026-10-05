@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Card Design</title>
+    <style>
+        body {
+            
+            background-color: gray;
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 7px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 194px;
+            height: 244px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card img {
+            width: 100%;
+            height: auto;
+        }
+
+        .card-content {
+            padding: 20px;
+        }
+
+        .card-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        .card-description {
+            color: #666;
+            font-size: 1em;
+        }
+</head>
+<body>
+    <div class="card">
+        <div class="image">
+            <img width="188px" height="144px" src="https://www.vecteezy.com/free-photos/man-in-boat" alt="Card Image">
+        </div>
+    </div>
+</body>
+</html>
